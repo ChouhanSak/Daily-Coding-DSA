@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
