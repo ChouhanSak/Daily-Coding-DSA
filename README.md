@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
