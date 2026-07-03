@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
