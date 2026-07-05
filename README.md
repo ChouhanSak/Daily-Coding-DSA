@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0009-palindrome-number) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0203-remove-linked-list-elements) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
