@@ -9,14 +9,14 @@ class Solution {
         int rank = 1;
         
         for (int num : sortedArr) {
-           
+            
             if (!rankMap.containsKey(num)) {
                 rankMap.put(num, rank);
                 rank++;
             }
         }
         
-        // Step 3: Replace each element in the original array with its rank
+        
         int[] result = new int[arr.length];
         for (int i = 0; i < arr.length; i++) {
             result[i] = rankMap.get(arr[i]);
