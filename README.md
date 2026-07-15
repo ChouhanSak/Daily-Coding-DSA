@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0057-insert-interval) |
 | [1288-remove-covered-intervals](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
