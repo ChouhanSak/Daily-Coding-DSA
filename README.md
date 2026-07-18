@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0072-edit-distance) |
+| [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
+| [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
