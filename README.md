@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1070-product-sales-analysis-iii) |
+| [1211-queries-quality-and-percentage](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1683-invalid-tweets](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1683-invalid-tweets) |
 ## Breadth-First Search
