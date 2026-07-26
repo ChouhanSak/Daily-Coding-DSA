@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0072-edit-distance) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
