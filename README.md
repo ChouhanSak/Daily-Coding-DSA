@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
