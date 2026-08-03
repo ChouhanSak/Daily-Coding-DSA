@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
