@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0344-reverse-string) |
