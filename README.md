@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
