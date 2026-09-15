@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
