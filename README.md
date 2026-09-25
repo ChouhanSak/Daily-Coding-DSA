@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0696-count-binary-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
