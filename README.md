@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0203-remove-linked-list-elements) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
