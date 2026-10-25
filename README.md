@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1672-richest-customer-wealth) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ChouhanSak/Daily-Coding-DSA/tree/master/2685-count-the-number-of-complete-components) |
